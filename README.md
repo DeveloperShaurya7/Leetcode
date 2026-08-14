@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -25,4 +26,12 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
