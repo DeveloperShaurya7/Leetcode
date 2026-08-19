@@ -25,10 +25,12 @@
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/DeveloperShaurya7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/DeveloperShaurya7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -38,10 +40,12 @@
 ## Array
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/DeveloperShaurya7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/DeveloperShaurya7/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
