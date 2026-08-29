@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/DeveloperShaurya7/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeveloperShaurya7/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DeveloperShaurya7/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeveloperShaurya7/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DeveloperShaurya7/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
